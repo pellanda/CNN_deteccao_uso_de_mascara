@@ -6,7 +6,7 @@ Mais detalhes do projeto podem ser encontrados no artigo a seguir:
 
 ### Demo
 
-![demo](GIF - Mascara.gif)
+![demo](demo.gif)
 
 ### Referências
 1. [COVID-19: Face Mask Detection using TensorFlow and OpenCV](https://towardsdatascience.com/covid-19-face-mask-detection-using-tensorflow-and-opencv-702dd833515b)
