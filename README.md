@@ -3,6 +3,7 @@ Algoritmo CNN para detecção do uso de máscara ou não utilizando a webcam
 
 ### Detalhes
 Mais detalhes do projeto podem ser encontrados no artigo a seguir:
+[Como usei uma webcam para identificar o uso (ou não) de máscaras faciais](https://www.linkedin.com/pulse/como-usei-uma-webcam-para-identificar-o-uso-ou-n%C3%A3o-de-bruno-pellanda/)
 
 ### Demo
 
